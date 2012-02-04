@@ -4,9 +4,9 @@ h1. jqPlot-rails
 
 h1. Installation
 
-Install the plugin:
+Install the gem by adding it to your Gemfile:
 
-bq. script/plugin install git://github.com/kammerer/jqplot-rails.git
+bq. gem 'jqplot-rails'
 
 Copy required files to public directory:
 
